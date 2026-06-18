@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer+%26+Computer+Science+Student&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-</p>
-
 # Hi there, I'm Shawn Kuria 👋
 
 I am a 4th-year Computer Science student at Strathmore University and a software developer specializing in web development and system integration. I am passionate about building efficient, user-centric applications and leveraging AI to solve complex operational challenges. From creating seamless collaborative platforms to designing enterprise-level supply chain systems, I enjoy turning ambitious ideas into scalable realities.
@@ -27,6 +25,7 @@ I am a 4th-year Computer Science student at Strathmore University and a software
 
 ### Methodologies
 <img src="https://img.shields.io/badge/PRINCE2_Foundation-021C42?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
+
 ---
 
 ## GitHub Stats
@@ -36,18 +35,17 @@ I am a 4th-year Computer Science student at Strathmore University and a software
   <img src="https://github-readme-stats.vercel.app/api?username=S-haw-n&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-haw-n&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
-
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-haw-n&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-haw-n&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [www.linkedin.com/in/shawn-kuria-6023482b6]
-- 📧 **Direct Contact:** [shawnkuriaofficial@gmail.com]
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/shawn-kuria-6023482b6)
+- 📧 **Direct Contact:** [shawnkuriaofficial@gmail.com](mailto:shawnkuriaofficial@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
