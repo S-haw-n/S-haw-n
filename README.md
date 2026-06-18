@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer+and+Computer+Science+Student&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Engineer+and+Computer+Science+Student&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
-## Hi there, I'm Shawn Kuria 👋
 
+# **Hi there, I'm Shawn Kuria 👋**
 I am a 4th-year Computer Science student at Strathmore University and a software developer specializing in web development and system integration. I am passionate about building efficient, user-centric applications and leveraging AI to solve complex operational challenges. From creating seamless collaborative platforms to designing enterprise-level supply chain systems, I enjoy turning ambitious ideas into scalable realities.
 
 - 🔭 **Current Focus:** Developing my final-year research project, DSFMP-SCM (an Integrated Digital Supply Chain and Inventory Tracking System for School Feeding Programs featuring AI-augmented demand forecasting), and building **Groupflow**.
